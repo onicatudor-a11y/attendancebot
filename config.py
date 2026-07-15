@@ -28,7 +28,7 @@ REMINDERS = [
         "time": "08:00",
         "text": "☀️ Cine e azi la lucru?",
         "poll": True,
-        "options": ["✅ Da, sunt la lucru", "❌ Nu sunt azi"],
+        "options": ["Sergiu", "Mihai"],
     },
     {
         "time": "08:10",
