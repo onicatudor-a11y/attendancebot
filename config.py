@@ -32,11 +32,11 @@ REMINDERS = [
     },
     {
         "time": "08:10",
-        "text": "📩 Sarcină: răspuns la mesajele de pe AmoCRM.",
+        "text": "📩 Sarcină: răspuns la mesajele de pe AmoCRM, de schimbat la a 2 atingere seen mesajele de o zi în urmă.",
         "poll": False,
     },
     {
-        "time": "08:20",
+        "time": "08:30",
         "text": "🎵 Sarcină: răspuns la mesaje și comentarii pe TikTok.",
         "poll": False,
     },
